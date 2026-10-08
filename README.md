@@ -119,5 +119,3 @@ Always send `HELLO`.
 - **"Client 2 is not running!"**: start `client2.py` first.
 
 ---
-
-Author: Your Name | Course: Your Course | Date: Your Date
